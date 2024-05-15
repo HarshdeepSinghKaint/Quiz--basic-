@@ -5,7 +5,7 @@ print("Welcome to the Game :) ")
 answer=input("Do you want to play the game\nYes or no ?\n")
 
 #if user says yes then we will continue with the game or else the game will end 
-if answer.lower()!="yes":
+if answer.lower()!="yes":#.lower method to get the user input in lower alphabets
     print("See you Again")
     quit()
     
@@ -56,7 +56,7 @@ else:
 #Question number5
 print("Question number 5 ")
 answer=input("RAM stands for ?\n")
-if answer.lower()=="random access memory":
+if answer.lower()=="random access memory": 
     print("Correct!")
     right_ans+=1
 else:
@@ -66,4 +66,5 @@ else:
 #Printing the Score of the User
 #Using F string method
 print(f"Yay you got {right_ans} answer correct and {wrong_ans} answers wrong out of 5")
+#printing out the percentage of right answer
 print("you got ",(right_ans/5)*100,"%")
