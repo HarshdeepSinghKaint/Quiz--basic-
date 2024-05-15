@@ -65,6 +65,6 @@ else:
     
 #Printing the Score of the User
 #Using F string method
-print(f"Yay you got {right_ans} answer correct and {wrong_ans} answers wrong out of 5")
+print(f" you got {right_ans} answer correct and {wrong_ans} answers wrong out of 5")
 #printing out the percentage of right answer
 print("you got ",(right_ans/5)*100,"%")
