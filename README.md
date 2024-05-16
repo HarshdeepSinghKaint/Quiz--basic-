@@ -32,5 +32,5 @@ This game was created as a beginner Python project to practice basic programming
 
 ## Feedback
 
-If you have any feedback or suggestions for improvements, feel free to [open an issue]([https://github.com/HarshdeepSinghKaint/Quiz--basic-/issues])on GitHub.
+If you have any feedback or suggestions for improvements, feel free to [open an issue]([https://github.com/HarshdeepSinghKaint/Quiz--basic-/issues]) on GitHub.
 
